@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/viniciustozzi/bat_sonar_game/commit/aa9abdea4f7e85e435f9cb8880a154955a103879\"><strong>a</strong>a9abdea4f7e85e435f9cb8880a154955a103879</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MendesVitor/Dashgo./commit/5b27aafac106787719c868ddb9f311949d3c11b7\">5b27aaf</a>\n- <a href=\"https://github.com/MendesVitor/golang-fundamentals/commit/512b56dfeb25e674aeddbc59837da41f0d5d71fb\">512b56d</a>\n- <a href=\"https://github.com/MendesVitor/desafio-go-full-cycle/commit/e6ece0c1e083267471d1a787db42b2aa080f6164\">e6ece0c</a>\n- <a href=\"https://github.com/MendesVitor/desafio-go-full-cycle/commit/70d2a5bee7eb6c45eee38e3b9290b15d8d6a7f63\">70d2a5b</a>\n- <a href=\"https://github.com/MendesVitor/ApiTypescriptIgniteNodejs/commit/fd8c0e4af2575afad945dde40257e27de9caec08\">fd8c0e4</a>\n- <a href=\"https://github.com/MendesVitor/ApiTypescriptIgniteNodejs/commit/0d19d2b6b76ca55d41df6727f2dc7600e825c582\">0d19d2b</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MendesVitor/mendesVitor/commit/90a2b3b1e6f90d25914b404d29b1fe6cc62aad29\">90a2b3b</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MendesVitor/ApiTypescriptIgniteNodejs/commit/f6d03482c1c1cc74abaf4bdc5e1dd5782c35dfcd\">f6d0348</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MendesVitor/ApiTypescriptIgniteNodejs/commit/f6d03482c1c1cc74abaf4bdc5e1dd5782c35dfcd\">f6d0348</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"readme.md\".",
+    "body": "My favorite commit message words are:\n\n1. readme.md (used 15 times)\n2. commit (used 11 times)\n3. create (used 10 times)\n4. add (used 10 times)\n5. update (used 10 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
